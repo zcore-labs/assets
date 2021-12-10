@@ -1,0 +1,81 @@
+{
+  "name": "Zcore Network Tokens",
+  "timestamp": "2021-11-08T00:00:00.000Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/zcoreswap/assets/master/blockchains/zcoreTestnet/assets/0x96cC3aEDfcD579965bed42F5674aA56b960D2875/logo.png",
+  "keywords": [
+    "zcoreswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x96cC3aEDfcD579965bed42F5674aA56b960D2875",
+      "chainId": 3331,
+      "name": "Wrapped Zcore",
+      "symbol": "WZCR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/zcoreswap/assets/master/blockchains/zcoreTestnet/assets/0x96cC3aEDfcD579965bed42F5674aA56b960D2875/logo.png"
+    },
+    {
+      "address": "0xb2241B36922124A3E2a1FA0718BD200518d33b7b",
+      "chainId": 3331,
+      "name": "Soul Token",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/zcoreswap/assets/master/blockchains/zcoreTestnet/assets/0xb2241B36922124A3E2a1FA0718BD200518d33b7b/logo.png"
+    },
+    {
+      "address": "0x6FC851B8D66116627Fb1137b9D5FE4E2e1BeA978",
+      "chainId": 333999,
+      "name": "Wrapped Polis",
+      "symbol": "WPOLIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x6FC851B8D66116627Fb1137b9D5FE4E2e1BeA978/logo.png"
+    },
+    {
+      "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
+      "chainId": 333999,
+      "name": "Binance Pegged DAI from BSC wrapped by passport.meter.io",
+      "symbol": "DAI.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x247123e806a27Ea322bFd93e0273D04602dC942D/logo.png"
+    },
+    {
+      "address": "0xf1498e8103359fD96c5E08fb34b4C249B619025a",
+      "chainId": 333999,
+      "name": "SoulToken",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xf1498e8103359fD96c5E08fb34b4C249B619025a/logo.png"
+    },
+    {
+      "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
+      "chainId": 333999,
+      "name": "Binance Pegged BTC from BSC wrapped by passport.meter.io",
+      "symbol": "BTC.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac/logo.png"
+    },
+    {
+      "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
+      "chainId": 333999,
+      "name": "CAKE from BSC wrapped by passport.meter.io",
+      "symbol": "CAKE.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7/logo.png"
+    },
+    {
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "chainId": 333999,
+      "name": "Binance Pegged ETH from BSC wrapped by passport.meter.io",
+      "symbol": "ETH.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B/logo.png"
+    }
+  ]
+}
